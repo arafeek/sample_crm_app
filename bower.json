@@ -1,0 +1,21 @@
+{
+  "name": "crm_app",
+  "version": "0.0.0",
+  "authors": [
+    "arafeek <adam_rafeek@hotmail.com>"
+  ],
+  "description": "crm practice app using the MEAN stack",
+  "main": "server.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
